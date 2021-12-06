@@ -1,10 +1,10 @@
-## Hello World, I'm Mandy Saini !
+## Welcome to my GITHUB, I'm Mandy Saini !
+
+![](https://komarev.com/ghpvc/?username=mandy2324&color=green)
 
 ### 👋 Nice to virtually meet you! 🙂
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=mandy2324&color=green)
 
 ## 😄 About Me
 
