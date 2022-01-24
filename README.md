@@ -12,7 +12,8 @@ I am Full Stack Software Engineer in the Raleigh NC area with a Bachelor’s Deg
 
 ## 💻 My tech stack<br>
 
-Experienced in fundamental concepts of web development, covering front end technologies like HTML/CSS, Git, Bootstrap, JavaScript, jQuery, APIs, AJAXN. The technical skills necessary to engineer a full stack web application, working with servers, databases, and other back end technologies like Node, Express servers, MySQL, Handlebars, Sequelize, Testing, Error Handling, Heroku, and connecting them to the front end.
+Experienced in fundamental concepts of web development, covering front end technologies like JavaScript (AJAX, JSON), HTML, CSS Git, Bootstrap, jQuery, APIs. The technical skills necessary to engineer a full stack web application, working with servers, databases, and other back end technologies like React (Hook, Redux), Vue, jQuery, Bootstrap, Materialize, Node.js (Express.js, Inquirer.js, File System, Sequelize), Handlebars.js, Recharts.js, GraphQL/Apollo Tools: MongoDB, MySQL, Sqlite3, Git, GitHub, Command Line, Heroku, Jest, VSCode
+
 
 ## ✨ Some fun things about me:
 
