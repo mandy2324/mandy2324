@@ -23,6 +23,6 @@ Experienced in fundamental concepts of web development, covering front end techn
 ## ⛓ My links
 
 - [LinkedIn 🔭](https://www.linkedin.com/in/m23saini/)
-- [Portfolio 📫](https://mandy2324.github.io/UPDATED-PORTFOLIO-/)
+- [Portfolio 📫](https://mandy2324.github.io/portfolio_react_v1/)
 - [Email me ✉️ ](m23saini@gmail.com)
 - [GITHUB 🪢](https://github.com/mandy2324)
