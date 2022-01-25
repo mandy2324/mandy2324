@@ -5,7 +5,8 @@
 ### 👋 Nice to virtually meet you! 🙂
 
 <br>
-[![Mandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandy2324)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandy2324&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😄 About Me
 
