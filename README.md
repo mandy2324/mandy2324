@@ -21,13 +21,13 @@ Experienced in fundamental concepts of web development, covering front end techn
 
 ## ✨ Some fun things about me:
 
-- I'm a foodie person.
+- I'm a foodie person 😋
 - I’m currently learning Mern 🌱
-- I love travelling and exploring places.
-- My weakness is food food and food.
+- I love travelling and exploring places 🚶‍♀️
+- My weakness is food food and food 🍽️
 
 ## ⛓ My links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mandy2324)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m23saini/)  
 
-- [Portfolio 📫](https://mandy2324.github.io/portfolio_react_v1/)
+- [Portfolio 🗒️](https://mandy2324.github.io/portfolio_react_v1/)
 - [Email me ✉️ ](m23saini@gmail.com)
