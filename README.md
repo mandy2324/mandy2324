@@ -22,7 +22,7 @@ Experienced in fundamental concepts of web development, covering front end techn
 ## ✨ Some fun things about me:
 
 - I'm a foodie person 😋
-- I’m currently learning Mern 🌱
+- I’m currently learning JAVA Full stack 🌱
 - I love travelling and exploring places 🚶‍♀️
 - My weakness is food food and food 🍽️
 
