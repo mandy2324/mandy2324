@@ -1,34 +1,44 @@
-## Welcome to my GITHUB, I'm Mandy Saini !
+## 🚀 Welcome to My GitHub, I'm Mandy Saini!  
 
-![](https://komarev.com/ghpvc/?username=mandy2324&color=green)
+![](https://komarev.com/ghpvc/?username=mandy2324&color=green)  
 
+### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to virtually meet you! 🙂  
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to virtually meet you! 🙂
+---
 
+## 😄 About Me  
 
-<br>
+I’m a **Full Stack Java Developer** based in **Raleigh, NC**, specializing in building **scalable, enterprise-level applications**. I have hands-on experience in **Java (17-21), Spring Boot, Spring Cloud, and Microservices architecture**, with a strong background in **AWS, Docker, and CI/CD pipelines**. I enjoy tackling complex challenges, optimizing performance, and crafting reliable, high-quality solutions.  
 
-<!-- [![Mandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandy2324&count_private=true&hide=stars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
+I thrive in **Agile environments**, focusing on **Test-Driven Development (TDD)** and best practices to ensure efficiency and stability. If I'm not coding, you'll probably find me hiking, experimenting with new recipes, or chasing sunsets! 🌅  
 
+---
 
-## 😄 About Me
+## 💻 My Tech Stack  
 
-I am Full Stack Software Engineer in the Raleigh NC area with a Bachelor’s Degree and 3+ years professional experience in Business Administration combined with Associate’s Degrees in Science. I'm an inquisitive person who likes to learn lots of different things, a problem-solver who challenges everything, and a diligent worker who doesn't take life too seriously and celebrates the simple things.
+- **Languages & Frameworks:** Java (17-21), Spring Boot, Spring Security, Spring Cloud, Spring Data JPA, Hibernate, ReactJS  
+- **Cloud & Deployment:** AWS (EC2, S3, RDS, Aurora DB, Redis, CloudWatch), Docker, AWS ECS (Fargate), Jenkins, CI/CD  
+- **Databases:** MySQL, MongoDB  
+- **Version Control & Tools:** Git/GitHub, BitBucket, Jira, SonarQube, Splunk, Postman, JUnit, Mockito  
+- **Methodologies & Other:** Agile, Scrum, Microservices Architecture, Test-Driven Development (TDD)  
 
-## 💻 My tech stack<br>
+---
 
-Experienced in fundamental concepts of web development, covering front end technologies like JavaScript (AJAX, JSON), HTML, CSS Git, Bootstrap, jQuery, APIs. The technical skills necessary to engineer a full stack web application, working with servers, databases, and other back end technologies like React (Hook, Redux), Vue, jQuery, Bootstrap, Materialize, Node.js (Express.js, Inquirer.js, File System, Sequelize), Handlebars.js, Recharts.js, GraphQL/Apollo Tools: MongoDB, MySQL, Sqlite3, Git, GitHub, Command Line, Heroku, Jest, VSCode
+## ✨ Fun Facts About Me  
 
+- I’m a **health-conscious foodie** who loves mindful eating 😋  
+- I absolutely **love traveling** and exploring new places 🚶‍♀️  
+- **Hiking is my therapy**—nature and scenic trails are my happy place ⛰️🌲  
+- I believe that **coffee + a solid playlist = productivity unlocked** ☕🎵  
+- Fun fact: I once overpacked snacks for a *short* hike… but no regrets! 😆🏕️  
 
-## ✨ Some fun things about me:
+---
 
-- I'm a health-conscious food enthusiast who practices mindfulness 😋
-- I am presently studying AWS with the goal of attaining my Cloud Practitioner certification  🌱
-- I love travelling and exploring places 🚶‍♀️
-- I have a passion for hiking and exploring trails, and I find great joy in immersing myself in the natural world.
+## ⛓ Connect with Me  
 
-## ⛓ My links
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mandy2324)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m23saini/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/mandy2324)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m23saini/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mandeepkaursaini.herokuapp.com/)  
+📧 [Email Me](mailto:m23saini@gmail.com)  
 
-- [Portfolio 🗒️](https://mandeepkaursaini.herokuapp.com/)
-- [Email me ✉️ ](m23saini@gmail.com)
+---
